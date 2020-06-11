@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8IRG6miwGgPoH6ADo6LVP96IYWZgqbnEaqYHLUEhRYFamuxrerWmMe2eUCr2BGBaznhCaPNmQfSHd3dSWzaJyQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\valen\\source\\repos\\ListaDeAlumnos\\ListaDeAlumnos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\valen\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\valen\source\repos\ListaDeAlumnos\bin\Debug\netcoreapp3.1\ListaDeAlumnos.exe
+C:\Users\valen\source\repos\ListaDeAlumnos\bin\Debug\netcoreapp3.1\ListaDeAlumnos.deps.json
+C:\Users\valen\source\repos\ListaDeAlumnos\bin\Debug\netcoreapp3.1\ListaDeAlumnos.runtimeconfig.json
+C:\Users\valen\source\repos\ListaDeAlumnos\bin\Debug\netcoreapp3.1\ListaDeAlumnos.runtimeconfig.dev.json
+C:\Users\valen\source\repos\ListaDeAlumnos\bin\Debug\netcoreapp3.1\ListaDeAlumnos.dll
+C:\Users\valen\source\repos\ListaDeAlumnos\bin\Debug\netcoreapp3.1\ListaDeAlumnos.pdb
+C:\Users\valen\source\repos\ListaDeAlumnos\obj\Debug\netcoreapp3.1\ListaDeAlumnos.csprojAssemblyReference.cache
+C:\Users\valen\source\repos\ListaDeAlumnos\obj\Debug\netcoreapp3.1\ListaDeAlumnos.AssemblyInfoInputs.cache
+C:\Users\valen\source\repos\ListaDeAlumnos\obj\Debug\netcoreapp3.1\ListaDeAlumnos.AssemblyInfo.cs
+C:\Users\valen\source\repos\ListaDeAlumnos\obj\Debug\netcoreapp3.1\ListaDeAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\ListaDeAlumnos\obj\Debug\netcoreapp3.1\ListaDeAlumnos.dll
+C:\Users\valen\source\repos\ListaDeAlumnos\obj\Debug\netcoreapp3.1\ListaDeAlumnos.pdb
+C:\Users\valen\source\repos\ListaDeAlumnos\obj\Debug\netcoreapp3.1\ListaDeAlumnos.genruntimeconfig.cache
